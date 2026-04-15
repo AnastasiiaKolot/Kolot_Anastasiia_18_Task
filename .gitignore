@@ -31,21 +31,32 @@
 *.out
 *.app
 
-# Visual Studio Specific
+*.json
+*.ipch
+# Visual Studio files
 .vs/
+*.vcxproj.user
+*.sqlitenoext
+*.VC.db
+*.VC.opendb
+
+# Build output folder
 [Dd]ebug/
 [Rr]elease/
 x64/
 x86/
+
 *.user
 *.suo
 *.sln.docstates
 *.db
 *.opendb
 *.filters
-*.filters
 *.vcxproj
-Task1_C++/Task1_C++/Task1_C++.vcxproj.filters
 *.filters
+
+# External dependencies
+out/
+build/
 
 *.vcxproj.filters
