@@ -30,9 +30,7 @@
 *.exe
 *.out
 *.app
- feature/task2
-Task2_C++/.vs/Task2_C++.slnx/v18/.suo
-*.db
+
 *.json
 *.ipch
 # Visual Studio files
@@ -42,22 +40,23 @@ Task2_C++/.vs/Task2_C++.slnx/v18/.suo
 *.VC.db
 *.VC.opendb
 
-# Build output folders
+# Build output folder
 [Dd]ebug/
 [Rr]elease/
 x64/
 x86/
 
+*.user
+*.suo
+*.sln.docstates
+*.db
+*.opendb
+*.filters
+*.vcxproj
+*.filters
+
 # External dependencies
 out/
 build/
-build/
-feature/task3
-*.vcxproj.filters
-feature/task4
-*.vcxproj.filters
 
 *.vcxproj.filters
-main
-
-
