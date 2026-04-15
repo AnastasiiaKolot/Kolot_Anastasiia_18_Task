@@ -30,6 +30,11 @@
 *.exe
 *.out
 *.app
+ feature/task2
+Task2_C++/.vs/Task2_C++.slnx/v18/.suo
+*.db
+*.json
+*.ipch
 # Visual Studio files
 .vs/
 *.vcxproj.user
@@ -46,6 +51,7 @@ x86/
 # External dependencies
 out/
 build/
+build/
 feature/task3
 *.vcxproj.filters
 feature/task4
@@ -53,4 +59,5 @@ feature/task4
 
 *.vcxproj.filters
 main
+
 
