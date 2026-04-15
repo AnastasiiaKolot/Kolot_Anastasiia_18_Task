@@ -34,3 +34,20 @@ Task2_C++/.vs/Task2_C++.slnx/v18/.suo
 *.db
 *.json
 *.ipch
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.sqlitenoext
+*.VC.db
+*.VC.opendb
+
+# Build output folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# External dependencies
+out/
+build/
