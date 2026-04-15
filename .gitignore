@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio Specific
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.sln.docstates
+*.db
+*.opendb
+*.filters
+*.filters
+*.vcxproj
+Task1_C++/Task1_C++/Task1_C++.vcxproj.filters
+*.filters
+
+*.vcxproj.filters
