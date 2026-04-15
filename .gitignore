@@ -46,4 +46,8 @@ x86/
 # External dependencies
 out/
 build/
+feature/task4
 *.vcxproj.filters
+
+*.vcxproj.filters
+main
